@@ -20712,7 +20712,7 @@ body:not(.has-floating-contacts-list)
   opacity: 1;
   transform: translate(82px, -110px);
 }
-.progress-wrap:after {
+/* .progress-wrap:after {
   position: absolute;
   left: 0px;
   top: 0px;
@@ -20732,7 +20732,7 @@ body:not(.has-floating-contacts-list)
   --tw-content: "";
   content: "";
   content: var(--tw-content);
-}
+} */
 .progress-wrap *:after {
   pointer-events: none;
 }
