@@ -28407,9 +28407,9 @@ input[type="radio"].sr-only:checked ~ div.available-anime-dot:before {
   #app.fixed-add-to-cart-bar .floating-contacts {
     bottom: 6rem;
   }
-  #app.fixed-add-to-cart-bar .progress-wrap {
+  /* #app.fixed-add-to-cart-bar .progress-wrap {
     bottom: 153px;
-  }
+  } */
 }
 #app.product-single #sallaCountDown {
   display: block;
