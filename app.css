@@ -4645,8 +4645,8 @@ input[type="radio"].sr-only:checked
 .s-cart-summary-wrapper {
   -webkit-text-decoration: none;
   text-decoration: none;
-  color: #7c8082;
-  color: var(--color-text);
+  /* color: #7c8082; */
+  /* color: var(--color-text); */
   transition: all 0.5s cubic-bezier(0.2, 1, 0.3, 1);
   align-items: center;
   font-weight: bolder;
